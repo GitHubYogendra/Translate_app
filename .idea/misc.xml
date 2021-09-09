@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_donut_large_24.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/drawable/raw.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/layout/activity_category.xml" value="0.2740036231884058" />
+        <entry key="app/src/main/res/layout/activity_colors.xml" value="0.21195652173913043" />
+        <entry key="app/src/main/res/layout/activity_family2.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.32826141348778437" />
+        <entry key="app/src/main/res/layout/activity_numbers.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_phrases.xml" value="0.2033514492753623" />
+        <entry key="app/src/main/res/layout/fragment_number.xml" value="0.2740036231884058" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/manifast.xml" value="0.276268115942029" />
+        <entry key="app/src/main/res/layout/phases_item.xml" value="0.26811594202898553" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
